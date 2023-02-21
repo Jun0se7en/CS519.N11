@@ -3,14 +3,14 @@
 <h1 align="center"><b>CS519.N11 - Scientific research methodology</b></h1>
 
 ## Giới thiệu
-* Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific Research Methodology
+* Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - SCIENTIFIC RESEARCH METHODOLOGY
 * Mã lớp: CS519.N11
 * Năm học: Học kỳ 1 (2022-2023)
 
 ### Giảng viên
 * PGS.TS Lê Đình Duy - duyld@uit.edu.vn
 
-### Thành viên nhóm BHĐ
+### Thành viên nhóm KKT
 
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
